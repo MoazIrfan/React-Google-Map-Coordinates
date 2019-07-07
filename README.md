@@ -1,10 +1,10 @@
 ## React Google Map Coordinates
 
 Quick Start
-# Install dependencies for server
+### Install dependencies for server
 npm install
 
-# Run App
+### Run App
 npm start
 
 Version
