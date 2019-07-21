@@ -16,7 +16,7 @@ class App extends Component {
     const { center } = this.state;
     return (
       <div className="App">
-        <header className="App-header">React Google Map Coordinates (API Key removed. Plz put your own key)</header>
+        <header className="App-header">React Google Map Coordinates (Key removed by administrator, plz put your key)</header>
         <div className="loc-ls">
           <ul>
             <li
